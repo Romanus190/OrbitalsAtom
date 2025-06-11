@@ -9,11 +9,9 @@ def generate_electron_configuration_up_to_extended():
     # Максимальное число электронов на подуровне (2*(2l + 1))
     sublevel_max_e = {l: 2 * (2 * l + 1) for l in sublevel_letters}
 
-    max_sublevel = 15
-
     # Генерируем все возможные орбитали (n, l) по порядку заполнения
     configurations = []
-    for n in range(1, max_sublevel):  # До n=23
+    for n in range(1, 23):  # До n=23
         for l in range(0, n):  # l может быть от 0 до n-1
             if l in sublevel_letters:  # Только если подуровень существует
                 configurations.append((n, l))
