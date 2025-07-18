@@ -45,5 +45,5 @@ config = generate_electron_configuration_up_to_extended()
 print(' '.join(config[:100]))  # Выводим первые 100 элементов для демонстрации
 
 # Записываем в файл
-with open('electron_configuration_extended.txt', 'w') as f:
+with open('electron_configuration_extended.txt', 'w', encoding='utf-8') as f:
     f.write('\n'.join(config))
