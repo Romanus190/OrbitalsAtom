@@ -29,7 +29,7 @@ def generate_electron_configuration_up_to_extended():
         n += 1
 
         # Ограничение для демонстрации
-        if n > 1300:
+        if n > 190:
             break
 
     configurations.sort(key=lambda x: (x[0] + x[1], x[0]))
