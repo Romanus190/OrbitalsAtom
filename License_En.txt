@@ -1,0 +1,54 @@
+OrbitalsAtom PROJECT LICENSE
+Version 1.0, June 23, 2026
+
+Author: Roman Tyutin
+
+1. DEFINITIONS
+
+"Project" is a Python program code that generates
+sequences of characters like a..z, aa..zz, aaa..zzz, as well
+as any of its modifications and derivative works.
+
+"Use" is the launch, study, modification, and distribution of code.
+
+2. RIGHTS OF USE
+
+You are allowed to:
+- run the code for non-commercial purposes;
+- study the source code;
+- modify the code for personal use;
+- distribute the unchanged code while maintaining this license and
+  indications of authorship.
+
+3. RESTRICTIONS
+
+Forbidden:
+- use the code in commercial projects without the written permission of the author;
+- distribute a modified version of the code without publishing
+the source code of the modifications under the same license;
+- delete or change references to authorship in the code;
+- assign authorship (pass off the code as your own);
+- automate the commercial use of the results of the code
+(for example, for spam mailings, domain generation, etc.).
+
+4. DISCLAIMER OF WARRANTIES
+
+The code is provided "as is". The author is not responsible for:
+- any direct or indirect damage resulting from the use of the code;
+- the correctness of the code in specific conditions;
+- consequences of code modifications by third parties.
+
+5. LICENSE CHANGES
+
+The author has the right to change the license terms in the future. New versions of the license
+are published in the project repository.
+
+6. AUTHOR'S CONTACTS
+
+For commercial use and other inquiries, please contact:
+tyutin2003@yandex.ru
+https://vk.com/id531617676 {roman_2092}
+
+7. NOTE
+
+Distributing the code without this license is a violation of copyright.
